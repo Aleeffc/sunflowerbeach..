@@ -1,1 +1,0 @@
-import client from './supabaseClient.js'; export default function App(){ return <h1>Supabase conectado!</h1>; }
